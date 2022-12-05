@@ -1,1 +1,2 @@
 - learn github
+- sync local to remote
